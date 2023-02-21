@@ -1,31 +1,4 @@
-# Hardhat Smartcontract Lottery (Raffle) FCC
-
-*This repo has been updated to work with Goerli over Rinkeby.*
-
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
-
-*[⌨️ (13:41:02) Lesson 9: Hardhat Smart Contract Lottery](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=49262s)*
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
-- [Hardhat Smartcontract Lottery (Raffle) FCC](#hardhat-smartcontract-lottery-raffle-fcc)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
-- [Usage](#usage)
-  - [Testing](#testing)
-    - [Test Coverage](#test-coverage)
-- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
-    - [Estimate gas cost in USD](#estimate-gas-cost-in-usd)
-  - [Verify on etherscan](#verify-on-etherscan)
-    - [Typescript differences](#typescript-differences)
-- [Linting](#linting)
-- [Thank you!](#thank-you)
-
-This project is apart of the Hardhat FreeCodeCamp video.
-
-Checkout the full blockchain course video [here.](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+#  Smartcontract Lottery (Raffle)
 
 # Getting Started
 
