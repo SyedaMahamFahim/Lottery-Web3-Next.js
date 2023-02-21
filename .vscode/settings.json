@@ -1,0 +1,12 @@
+{"[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4B220C",
+    "titleBar.activeBackground": "#692F11",
+    "titleBar.activeForeground": "#FEFAF7"
+  }
+}
