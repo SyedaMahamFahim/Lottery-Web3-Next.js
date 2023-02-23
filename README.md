@@ -6,19 +6,16 @@
 [Example App here!](https://fancy-dream-3458.on.fleek.co/)
 [Example App on IPFS here!](ipfs://Qme4KacFx21y6pYuTC6veAU2usryXB3fNWqLkX3a2hMvDe)
 
-Built with ❤️ using:
-NextJS
-Solidity
-Chainlink
-Moralis
-web3uikit
-Ethers
-Hardhat
-IPFS
+Built with using:
+NextJS <br/>
+Solidity <br/>
+Chainlink <br/>
+Moralis <br/>
+web3uikit <br/>
+Ethers <br/>
+Hardhat <br/>
+IPFS<br/> 
 
-
-
-Video coming soon...
 
 # Getting Started
 
@@ -37,8 +34,8 @@ Video coming soon...
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/nextjs-smartcontract-lottery-fcc
-cd nextjs-smartcontract-lottery-fcc
+git clone https://github.com/SyedaMahamFahim/Lottery-Web3-Next.js.git
+cd Lottery-Web3-Next.js
 yarn
 yarn dev
 ```
@@ -98,11 +95,6 @@ yarn dev
 Head over to your [localhost](http://localhost:3000) and play with the lottery!
 
 
-## Testing
-
-I didn't write any front end tests 😢
-
-If you'd like to create some tests for this repo, please make a PR!
 
 # Deploying to IPFS
 
